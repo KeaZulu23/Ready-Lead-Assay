@@ -494,7 +494,7 @@ section {
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 100vh;
+  min-height: 10vh;
   background: url("https://brokendoorministries.com/wp-content/uploads/2017/02/gold.jpg") top center;
   background-size: cover;
   position: relative;
